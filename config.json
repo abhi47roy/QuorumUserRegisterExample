@@ -1,0 +1,9 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/mean-stack-registration-login-example",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+    "QuorumAdminKey"     : "0xed9d02e382b34818e88b88a309c7fe71e65f419d",
+    "QuorumProvider"     : "http://127.0.0.1:22000",
+    "RegisteredUser"       : "Registered",
+    "NotRegisteredUser"    : "Not Registered"
+}
